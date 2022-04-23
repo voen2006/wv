@@ -1,0 +1,31 @@
+.logo{
+    width: 50px;
+}
+.f{
+    width: 100%;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+}
+.g{
+    border: 1px solid rgb(233, 233, 235);
+}
+.down{
+    background-color: rgb(0, 0, 0);
+    padding-left: 5%;
+}
+.down a{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    
+}
+.dd{
+    display: flex;
+    justify-content: space-around;
+}
+h3{
+    color: rgb(255, 255, 255);
+    
+}
+
